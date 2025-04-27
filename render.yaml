@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yuki-youtube-slim
+    name: mero-a
     env: python
     region: Oregon
     plan: free
